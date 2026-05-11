@@ -1,0 +1,1582 @@
+{
+  "id": "7fe907f3-9cdc-4009-88c4-dee9e84bebf2",
+  "platform": "iOS",
+  "deviceName": "iPhone 13",
+  "osVersion": "17.0",
+  "appVersion": "15.3.2",
+  "suiteIds": [
+    "transfers"
+  ],
+  "suiteNames": [
+    "Transfers, Payments & Mobile Deposit"
+  ],
+  "status": "completed_with_failures",
+  "startTime": 1778461853256,
+  "endTime": 1778461889755,
+  "duration": 36499,
+  "logs": [
+    {
+      "time": 1778461853257,
+      "message": "📱 TD Bank Mobile Test Simulation",
+      "level": "info"
+    },
+    {
+      "time": 1778461853257,
+      "message": "   Platform : iOS 17.0",
+      "level": "info"
+    },
+    {
+      "time": 1778461853257,
+      "message": "   Device   : iPhone 13",
+      "level": "info"
+    },
+    {
+      "time": 1778461853257,
+      "message": "   App      : TD Bank USA v15.3.2",
+      "level": "info"
+    },
+    {
+      "time": 1778461853257,
+      "message": "   Suites   : 1 selected",
+      "level": "info"
+    },
+    {
+      "time": 1778461853257,
+      "message": "   Total    : 25 test cases",
+      "level": "info"
+    },
+    {
+      "time": 1778461853257,
+      "message": "─────────────────────────────────────────",
+      "level": "info"
+    },
+    {
+      "time": 1778461854063,
+      "message": "🚀 Appium server connected — iOS WebDriver session active",
+      "level": "success"
+    },
+    {
+      "time": 1778461854064,
+      "message": "📲 Launching TD Bank app on iPhone 13…",
+      "level": "info"
+    },
+    {
+      "time": 1778461855279,
+      "message": "✅ App launched — Home screen displayed",
+      "level": "success"
+    },
+    {
+      "time": 1778461855682,
+      "message": "\n📋 Suite 1/1: Transfers, Payments & Mobile Deposit",
+      "level": "info"
+    },
+    {
+      "time": 1778461855682,
+      "message": "   Internal/external transfers, bill pay, mobile deposit, e-transfer, wire transfers",
+      "level": "info"
+    },
+    {
+      "time": 1778461855682,
+      "message": "\n  ▶ [1/25] TRF-01: Internal transfer between own accounts",
+      "level": "info"
+    },
+    {
+      "time": 1778461855683,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461855912,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461856077,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461856222,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461856360,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461856556,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461856693,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461856860,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461856960,
+      "message": "     ✅ PASSED (1277ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461856960,
+      "message": "\n  ▶ [2/25] TRF-02: External ACH bank transfer",
+      "level": "info"
+    },
+    {
+      "time": 1778461856962,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461857199,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461857343,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461857528,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461857793,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461858012,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461858212,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461858458,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461858677,
+      "message": "     ✅ PASSED (1715ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461858678,
+      "message": "\n  ▶ [3/25] TRF-03: Domestic wire transfer flow",
+      "level": "info"
+    },
+    {
+      "time": 1778461858678,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461858793,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461859024,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461859257,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461859477,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461859636,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461859900,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461860121,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461860216,
+      "message": "     ✅ PASSED (1538ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461860217,
+      "message": "\n  ▶ [4/25] TRF-04: Zelle — send money by email",
+      "level": "info"
+    },
+    {
+      "time": 1778461860217,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461860375,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461860606,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461860826,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461860941,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461861072,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461861257,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461861375,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461861473,
+      "message": "     ✅ PASSED (1256ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461861473,
+      "message": "\n  ▶ [5/25] TRF-05: Zelle — send money by phone number",
+      "level": "info"
+    },
+    {
+      "time": 1778461861473,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461861573,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461861703,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461861876,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461861974,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461862088,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461862206,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461862460,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461862559,
+      "message": "     ❌ FAILED — Element not found within timeout (1086ms)",
+      "level": "error"
+    },
+    {
+      "time": 1778461862560,
+      "message": "\n  ▶ [6/25] TRF-06: Transfer with insufficient funds rejected",
+      "level": "info"
+    },
+    {
+      "time": 1778461862561,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461862760,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461862975,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461863108,
+      "message": "     → Enter invalid data",
+      "level": "info"
+    },
+    {
+      "time": 1778461863223,
+      "message": "     → Trigger error condition",
+      "level": "info"
+    },
+    {
+      "time": 1778461863337,
+      "message": "     → Assert error message shown",
+      "level": "info"
+    },
+    {
+      "time": 1778461863572,
+      "message": "     → Verify no data changed",
+      "level": "info"
+    },
+    {
+      "time": 1778461863722,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461863938,
+      "message": "     ✅ PASSED (1377ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461863939,
+      "message": "\n  ▶ [7/25] TRF-07: Transfer daily limit enforcement",
+      "level": "info"
+    },
+    {
+      "time": 1778461863939,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461864155,
+      "message": "     → Verify security context",
+      "level": "info"
+    },
+    {
+      "time": 1778461864254,
+      "message": "     → Attempt restricted action",
+      "level": "info"
+    },
+    {
+      "time": 1778461864377,
+      "message": "     → Assert access denied / protection active",
+      "level": "info"
+    },
+    {
+      "time": 1778461864459,
+      "message": "     → Verify audit log entry",
+      "level": "info"
+    },
+    {
+      "time": 1778461864558,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461864808,
+      "message": "     ⏭  SKIPPED — dependency not met (869ms)",
+      "level": "warn"
+    },
+    {
+      "time": 1778461864809,
+      "message": "\n  ▶ [8/25] TRF-08: Scheduled future-dated transfer",
+      "level": "info"
+    },
+    {
+      "time": 1778461864810,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461865074,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461865324,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461865573,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461865752,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461865969,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461866122,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461866335,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461866543,
+      "message": "     ✅ PASSED (1733ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461866543,
+      "message": "\n  ▶ [9/25] TRF-09: Recurring weekly/monthly transfer setup",
+      "level": "info"
+    },
+    {
+      "time": 1778461866543,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461866783,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461866952,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461867106,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461867373,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461867507,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461867754,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461868005,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461868154,
+      "message": "     ✅ PASSED (1611ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461868154,
+      "message": "\n  ▶ [10/25] TRF-10: Cancel pending scheduled transfer",
+      "level": "info"
+    },
+    {
+      "time": 1778461868155,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461868290,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461868431,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461868636,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461868871,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461869085,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461869335,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461869552,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461869666,
+      "message": "     ✅ PASSED (1511ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461869667,
+      "message": "\n  ▶ [11/25] TRF-11: Bill pay — add new payee",
+      "level": "info"
+    },
+    {
+      "time": 1778461869667,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461869933,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461870052,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461870183,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461870283,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461870532,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461870750,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461870970,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461871166,
+      "message": "     ✅ PASSED (1499ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461871167,
+      "message": "\n  ▶ [12/25] TRF-12: Bill pay — schedule one-time payment",
+      "level": "info"
+    },
+    {
+      "time": 1778461871167,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461871429,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461871522,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461871648,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461871864,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461871981,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461872198,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461872380,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461872598,
+      "message": "     ✅ PASSED (1431ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461872599,
+      "message": "\n  ▶ [13/25] TRF-13: Bill pay — set up autopay (recurring)",
+      "level": "info"
+    },
+    {
+      "time": 1778461872599,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461872714,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461872914,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461873064,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461873215,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461873381,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461873630,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461873812,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461873930,
+      "message": "     ✅ PASSED (1331ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461873931,
+      "message": "\n  ▶ [14/25] TRF-14: Bill pay — payment history view",
+      "level": "info"
+    },
+    {
+      "time": 1778461873932,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461874020,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461874130,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461874346,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461874446,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461874562,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461874795,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461874963,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461875113,
+      "message": "     ✅ PASSED (1181ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461875115,
+      "message": "\n  ▶ [15/25] TRF-15: Bill pay — edit and delete payee",
+      "level": "info"
+    },
+    {
+      "time": 1778461875116,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461875312,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461875495,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461875596,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461875845,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461876113,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461876295,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461876511,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461876642,
+      "message": "     ✅ PASSED (1526ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461876642,
+      "message": "\n  ▶ [16/25] TRF-16: Mobile deposit — capture cheque front",
+      "level": "info"
+    },
+    {
+      "time": 1778461876642,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461876902,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461877050,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461877275,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461877494,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461877730,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461877893,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461878080,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461878330,
+      "message": "     ✅ PASSED (1688ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461878330,
+      "message": "\n  ▶ [17/25] TRF-17: Mobile deposit — capture cheque back",
+      "level": "info"
+    },
+    {
+      "time": 1778461878330,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461878442,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461878677,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461878846,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461879028,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461879277,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461879493,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461879742,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461879975,
+      "message": "     ✅ PASSED (1645ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461879976,
+      "message": "\n  ▶ [18/25] TRF-18: Mobile deposit — amount entry & confirm",
+      "level": "info"
+    },
+    {
+      "time": 1778461879977,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461880094,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461880261,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461880524,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461880750,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461880873,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461880991,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461881141,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461881290,
+      "message": "     ✅ PASSED (1313ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461881290,
+      "message": "\n  ▶ [19/25] TRF-19: Mobile deposit — duplicate cheque detection",
+      "level": "info"
+    },
+    {
+      "time": 1778461881291,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461881423,
+      "message": "     → Verify security context",
+      "level": "info"
+    },
+    {
+      "time": 1778461881540,
+      "message": "     → Attempt restricted action",
+      "level": "info"
+    },
+    {
+      "time": 1778461881742,
+      "message": "     → Assert access denied / protection active",
+      "level": "info"
+    },
+    {
+      "time": 1778461881909,
+      "message": "     → Verify audit log entry",
+      "level": "info"
+    },
+    {
+      "time": 1778461882126,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461882342,
+      "message": "     ✅ PASSED (1051ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461882343,
+      "message": "\n  ▶ [20/25] TRF-20: Mobile deposit — blurry image rejection",
+      "level": "info"
+    },
+    {
+      "time": 1778461882343,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461882457,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461882620,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461882740,
+      "message": "     → Enter invalid data",
+      "level": "info"
+    },
+    {
+      "time": 1778461882942,
+      "message": "     → Trigger error condition",
+      "level": "info"
+    },
+    {
+      "time": 1778461883122,
+      "message": "     → Assert error message shown",
+      "level": "info"
+    },
+    {
+      "time": 1778461883273,
+      "message": "     → Verify no data changed",
+      "level": "info"
+    },
+    {
+      "time": 1778461883375,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461883505,
+      "message": "     ✅ PASSED (1162ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461883506,
+      "message": "\n  ▶ [21/25] TRF-21: Transfer confirmation with biometric sign",
+      "level": "info"
+    },
+    {
+      "time": 1778461883506,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461883760,
+      "message": "     → Verify security context",
+      "level": "info"
+    },
+    {
+      "time": 1778461883980,
+      "message": "     → Attempt restricted action",
+      "level": "info"
+    },
+    {
+      "time": 1778461884155,
+      "message": "     → Assert access denied / protection active",
+      "level": "info"
+    },
+    {
+      "time": 1778461884329,
+      "message": "     → Verify audit log entry",
+      "level": "info"
+    },
+    {
+      "time": 1778461884438,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461884619,
+      "message": "     ✅ PASSED (1113ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461884620,
+      "message": "\n  ▶ [22/25] TRF-22: Transfer receipt generation & sharing",
+      "level": "info"
+    },
+    {
+      "time": 1778461884620,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461884788,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461884988,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461885211,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461885436,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461885653,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461885824,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461885952,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461886120,
+      "message": "     ✅ PASSED (1500ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461886121,
+      "message": "\n  ▶ [23/25] TRF-23: International wire — SWIFT/IBAN entry",
+      "level": "info"
+    },
+    {
+      "time": 1778461886121,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461886219,
+      "message": "     → Wait for home screen",
+      "level": "info"
+    },
+    {
+      "time": 1778461886419,
+      "message": "     → Navigate to feature",
+      "level": "info"
+    },
+    {
+      "time": 1778461886629,
+      "message": "     → Interact with element",
+      "level": "info"
+    },
+    {
+      "time": 1778461886805,
+      "message": "     → Assert expected state",
+      "level": "info"
+    },
+    {
+      "time": 1778461887038,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461887137,
+      "message": "     → Verify data displayed",
+      "level": "info"
+    },
+    {
+      "time": 1778461887288,
+      "message": "     → Return to home",
+      "level": "info"
+    },
+    {
+      "time": 1778461887468,
+      "message": "     ✅ PASSED (1347ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461887468,
+      "message": "\n  ▶ [24/25] TRF-24: Transfer memo/note field validation",
+      "level": "info"
+    },
+    {
+      "time": 1778461887468,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461887586,
+      "message": "     → Navigate to form",
+      "level": "info"
+    },
+    {
+      "time": 1778461887685,
+      "message": "     → Enter boundary/invalid value",
+      "level": "info"
+    },
+    {
+      "time": 1778461887869,
+      "message": "     → Trigger validation",
+      "level": "info"
+    },
+    {
+      "time": 1778461888036,
+      "message": "     → Assert validation message",
+      "level": "info"
+    },
+    {
+      "time": 1778461888253,
+      "message": "     → Verify field state",
+      "level": "info"
+    },
+    {
+      "time": 1778461888451,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461888569,
+      "message": "     ✅ PASSED (1101ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461888570,
+      "message": "\n  ▶ [25/25] TRF-25: Transfer cut-off time validation (5 PM ET)",
+      "level": "info"
+    },
+    {
+      "time": 1778461888571,
+      "message": "     → Launch app",
+      "level": "info"
+    },
+    {
+      "time": 1778461888802,
+      "message": "     → Navigate to form",
+      "level": "info"
+    },
+    {
+      "time": 1778461889050,
+      "message": "     → Enter boundary/invalid value",
+      "level": "info"
+    },
+    {
+      "time": 1778461889135,
+      "message": "     → Trigger validation",
+      "level": "info"
+    },
+    {
+      "time": 1778461889304,
+      "message": "     → Assert validation message",
+      "level": "info"
+    },
+    {
+      "time": 1778461889522,
+      "message": "     → Verify field state",
+      "level": "info"
+    },
+    {
+      "time": 1778461889670,
+      "message": "     → Capture screenshot",
+      "level": "info"
+    },
+    {
+      "time": 1778461889755,
+      "message": "     ✅ PASSED (1184ms)",
+      "level": "success"
+    },
+    {
+      "time": 1778461889755,
+      "message": "  ✅ Suite done — 23/25 passed (92%)",
+      "level": "warn"
+    },
+    {
+      "time": 1778461889755,
+      "message": "\n════════════════════════════════════════",
+      "level": "info"
+    },
+    {
+      "time": 1778461889755,
+      "message": "📊 FINAL RESULTS — TD Bank Mobile Tests",
+      "level": "info"
+    },
+    {
+      "time": 1778461889755,
+      "message": "   Total   : 25",
+      "level": "info"
+    },
+    {
+      "time": 1778461889755,
+      "message": "   Passed  : 23 ✅",
+      "level": "success"
+    },
+    {
+      "time": 1778461889755,
+      "message": "   Failed  : 1 ❌",
+      "level": "error"
+    },
+    {
+      "time": 1778461889755,
+      "message": "   Skipped : 1 ⏭",
+      "level": "info"
+    },
+    {
+      "time": 1778461889756,
+      "message": "   Pass Rate: 92%",
+      "level": "success"
+    },
+    {
+      "time": 1778461889756,
+      "message": "   Duration : 36.5s",
+      "level": "info"
+    }
+  ],
+  "suiteResults": [
+    {
+      "suiteId": "transfers",
+      "suiteName": "Transfers, Payments & Mobile Deposit",
+      "color": "#10b981",
+      "icon": "💸",
+      "tests": [
+        {
+          "id": "TRF-01",
+          "title": "Internal transfer between own accounts",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1277,
+          "error": null
+        },
+        {
+          "id": "TRF-02",
+          "title": "External ACH bank transfer",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1715,
+          "error": null
+        },
+        {
+          "id": "TRF-03",
+          "title": "Domestic wire transfer flow",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1538,
+          "error": null
+        },
+        {
+          "id": "TRF-04",
+          "title": "Zelle — send money by email",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1256,
+          "error": null
+        },
+        {
+          "id": "TRF-05",
+          "title": "Zelle — send money by phone number",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "failed",
+          "duration": 1086,
+          "error": "Element not found within timeout"
+        },
+        {
+          "id": "TRF-06",
+          "title": "Transfer with insufficient funds rejected",
+          "priority": "Critical",
+          "type": "Negative",
+          "status": "passed",
+          "duration": 1377,
+          "error": null
+        },
+        {
+          "id": "TRF-07",
+          "title": "Transfer daily limit enforcement",
+          "priority": "Critical",
+          "type": "Security",
+          "status": "skipped",
+          "duration": 869,
+          "error": null
+        },
+        {
+          "id": "TRF-08",
+          "title": "Scheduled future-dated transfer",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1733,
+          "error": null
+        },
+        {
+          "id": "TRF-09",
+          "title": "Recurring weekly/monthly transfer setup",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1611,
+          "error": null
+        },
+        {
+          "id": "TRF-10",
+          "title": "Cancel pending scheduled transfer",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1511,
+          "error": null
+        },
+        {
+          "id": "TRF-11",
+          "title": "Bill pay — add new payee",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1499,
+          "error": null
+        },
+        {
+          "id": "TRF-12",
+          "title": "Bill pay — schedule one-time payment",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1431,
+          "error": null
+        },
+        {
+          "id": "TRF-13",
+          "title": "Bill pay — set up autopay (recurring)",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1331,
+          "error": null
+        },
+        {
+          "id": "TRF-14",
+          "title": "Bill pay — payment history view",
+          "priority": "Medium",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1181,
+          "error": null
+        },
+        {
+          "id": "TRF-15",
+          "title": "Bill pay — edit and delete payee",
+          "priority": "Medium",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1526,
+          "error": null
+        },
+        {
+          "id": "TRF-16",
+          "title": "Mobile deposit — capture cheque front",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1688,
+          "error": null
+        },
+        {
+          "id": "TRF-17",
+          "title": "Mobile deposit — capture cheque back",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1645,
+          "error": null
+        },
+        {
+          "id": "TRF-18",
+          "title": "Mobile deposit — amount entry & confirm",
+          "priority": "Critical",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1313,
+          "error": null
+        },
+        {
+          "id": "TRF-19",
+          "title": "Mobile deposit — duplicate cheque detection",
+          "priority": "High",
+          "type": "Security",
+          "status": "passed",
+          "duration": 1051,
+          "error": null
+        },
+        {
+          "id": "TRF-20",
+          "title": "Mobile deposit — blurry image rejection",
+          "priority": "High",
+          "type": "Negative",
+          "status": "passed",
+          "duration": 1162,
+          "error": null
+        },
+        {
+          "id": "TRF-21",
+          "title": "Transfer confirmation with biometric sign",
+          "priority": "High",
+          "type": "Security",
+          "status": "passed",
+          "duration": 1113,
+          "error": null
+        },
+        {
+          "id": "TRF-22",
+          "title": "Transfer receipt generation & sharing",
+          "priority": "Medium",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1500,
+          "error": null
+        },
+        {
+          "id": "TRF-23",
+          "title": "International wire — SWIFT/IBAN entry",
+          "priority": "High",
+          "type": "Positive",
+          "status": "passed",
+          "duration": 1347,
+          "error": null
+        },
+        {
+          "id": "TRF-24",
+          "title": "Transfer memo/note field validation",
+          "priority": "Low",
+          "type": "Validation",
+          "status": "passed",
+          "duration": 1101,
+          "error": null
+        },
+        {
+          "id": "TRF-25",
+          "title": "Transfer cut-off time validation (5 PM ET)",
+          "priority": "High",
+          "type": "Validation",
+          "status": "passed",
+          "duration": 1184,
+          "error": null
+        }
+      ],
+      "passed": 23,
+      "failed": 1,
+      "skipped": 1,
+      "startTime": 1778461855682,
+      "endTime": 1778461889755,
+      "duration": 34073
+    }
+  ],
+  "summary": {
+    "total": 25,
+    "passed": 23,
+    "failed": 1,
+    "skipped": 1,
+    "blocked": 0
+  }
+}
